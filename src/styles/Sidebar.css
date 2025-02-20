@@ -4,7 +4,6 @@
     margin: 10px 16px;
 }
 
-
 .sidebar {
     width: 220px;
     height: 100vh;
@@ -83,7 +82,7 @@
 .dropdown-icon {
     font-size: 18px;
     color: #4b5563;
-    transform: rotate(90deg); /* Make right arrow into a down arrow */
+    transform: rotate(90deg);
 }
 
 
